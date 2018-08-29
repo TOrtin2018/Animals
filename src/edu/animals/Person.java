@@ -3,6 +3,7 @@ package edu.animals;
 /**
  * Created by mgreen14 on 12/27/17.
  * Author Matt Green
+ * Version 1.5
  *
  * Class creates and controls person object
  */

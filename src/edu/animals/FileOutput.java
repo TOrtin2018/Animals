@@ -5,6 +5,7 @@ import java.io.*;
 /**
  * Created by mgreen14 on 12/27/17.
  * Author Matt Green
+ * Version 1.5
  *
  * Class controls file being written to
  */

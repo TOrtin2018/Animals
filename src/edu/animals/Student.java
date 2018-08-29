@@ -3,6 +3,7 @@ package edu.animals;
 /**
  * Created by mgreen14 on 12/27/17.
  * Author Matt Green
+ * Version 1.5
  *
  * Class creates and controls student object
  */
@@ -10,7 +11,7 @@ public class Student extends Person implements Talkable {
     private int age;
 
     /**
-     * Construct creates and initializes student object
+     * Constructor creates and initializes student object
      * @param age age of student
      * @param name name of student
      */
